@@ -2,7 +2,7 @@ package CoffeeServiceManagement;
 
 public class ServiceManager {
 	
-	/* Bir maðaza ekstra bir hizmet istemediði taktirde bu hizmet kullanýlacak
+	/* Bir magaza ekstra bir hizmet istemedigi taktirde bu hizmet kullanilacak
 	 * default olarak
 	 */
 	
