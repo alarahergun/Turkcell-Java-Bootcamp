@@ -15,8 +15,8 @@ public class Starbucks{
 	}
 	
 	
-	/*her mağazanın kendine ait bir service manager sistemi var
-	 * bu sayede ileride herhangi bir mağaza herhangi bir konuda
-	 * ek bir hizmet isterse kolayca eklenip çıkarılabilir
+	/*her magazanin kendine ait bir service manager sistemi var (istenirse olmayabilir de)
+ 	 * bu sayede ileride herhangi bir magaza herhangi bir konuda
+	 * ek bir hizmet isterse kolayca eklenip Ã§ikarilabilir
 	 */
 }
