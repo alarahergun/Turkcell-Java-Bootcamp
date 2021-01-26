@@ -4,25 +4,25 @@ public class HibernateCustomerDao implements ICustomerDao{
 
 	@Override
 	public void add() {
-		System.out.println("Müþteri Hibernate ile eklendi.");
+		System.out.println("MÃ¼steri Hibernate ile eklendi.");
 		System.out.println();
 	}
 
 	@Override
 	public void update() {
-		System.out.println("Müþteri Hibernate ile güncellendi.");
+		System.out.println("MÃ¼steri Hibernate ile gÃ¼ncellendi.");
 		System.out.println();
 	}
 
 	@Override
 	public void delete() {
-		System.out.println("Müþteri Hibernate ile silindi.");
+		System.out.println("MÃ¼steri Hibernate ile silindi.");
 		System.out.println();
 	}
 
 	@Override
 	public void verify() {
-		System.out.println("Müþteri Hibernate ile doðrulandý.");
+		System.out.println("MÃ¼steri Hibernate ile dogrulandi.");
 		System.out.println();
 	}
 }
