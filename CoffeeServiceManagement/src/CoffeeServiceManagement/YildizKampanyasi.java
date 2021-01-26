@@ -4,7 +4,7 @@ public class YildizKampanyasi implements IKampanya{
 
 	@Override
 	public void satis() {
-			System.out.println("Müþteri bir yýldýz kazandý!");
+			System.out.println("MÃ¼steri bir yildiz kazandi!");
 			System.out.println();
 	}
 
