@@ -10,18 +10,18 @@ public class ShopService {
 	
 	public ShopService()
 	{
-		//kampanya olmaması durumu
+		//kampanya olmamasÄ± durumu
 	}
 
 	public void satisYap(Customer customer, Product product) 
 	{
-		System.out.println(customer.getFirstName() + " " + customer.getLastName() + " adlı müşteriye " + product.getName() + " kampanyası kapsamında ürün satılmıştır.");
+		System.out.println(customer.getFirstName() + " " + customer.getLastName() + " adli mÃ¼steriye " + product.getName() + " kampanyasi kapsaminda Ã¼rÃ¼n satilmistir.");
 		kampanya.satis();
 	}
 	
 	public void satisYap(Customer customer)
 	{
-		System.out.println(customer.getFirstName() + " " + customer.getLastName() + " adlı müşteriye ürün satılmıştır.");
+		System.out.println(customer.getFirstName() + " " + customer.getLastName() + " adli mÃ¼steriye Ã¼rÃ¼n satilmistir.");
 	}
 	
 }
