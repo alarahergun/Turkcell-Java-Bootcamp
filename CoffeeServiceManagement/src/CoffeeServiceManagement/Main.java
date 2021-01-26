@@ -4,14 +4,14 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Customer customer1 = new Customer();
+		Customer customer1 = new CustomerStarbucks();
 		customer1.setDogumYili(2000);
 		customer1.setFirstName("Alara");
 		customer1.setLastName("Hergun");
 		customer1.setId(0);
 		customer1.setTCNo("1373981273");
 		
-		Customer customer2 = new Customer();
+		Customer customer2 = new CustomerNero();
 		customer2.setDogumYili(2000);
 		customer2.setFirstName("Alara");
 		customer2.setLastName("Hergun");
