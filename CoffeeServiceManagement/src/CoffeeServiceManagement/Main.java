@@ -9,12 +9,12 @@ public class Main {
 		customer1.setFirstName("Alara");
 		customer1.setLastName("Hergun");
 		customer1.setId(0);
-		customer1.setTCNo("1373981273");
+		customer1.setTCNo("1237182312");
 		
 		Customer customer2 = new CustomerNero();
 		customer2.setDogumYili(2000);
-		customer2.setFirstName("Alara");
-		customer2.setLastName("Hergun");
+		customer2.setFirstName("Ayse");
+		customer2.setLastName("Yilmaz");
 		customer2.setId(1);
 		customer2.setTCNo("1373981273");
 		
