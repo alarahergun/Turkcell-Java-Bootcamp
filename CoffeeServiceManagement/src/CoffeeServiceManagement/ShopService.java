@@ -10,7 +10,7 @@ public class ShopService {
 	
 	public ShopService()
 	{
-		//kampanya olmaması durumu
+		//kampanya olmamasi durumu
 	}
 
 	public void satisYap(Customer customer, Product product) 
