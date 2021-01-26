@@ -8,9 +8,9 @@ public class StarbucksCustomerService extends CustomerService{
 
 	public void verify(Customer customer)
 	{
-		//E-devlet ile ilgili iþlemler
-		System.out.println("E-devlet sisteminden TC, Ad, Soyad, Doðum Yýlý doðrulama yapýlýyor...");
-		System.out.println(customer.getFirstName() + " " + customer.getLastName() + " adlý müþteri e-devlet taramasýndan geçti.");
+		//E-devlet ile ilgili iÅŸlemler
+		System.out.println("E-devlet sisteminden TC, Ad, Soyad, Dogum Yili dogrulama yapiliyor...");
+		System.out.println(customer.getFirstName() + " " + customer.getLastName() + " adli mÃ¼steri e-devlet taramasindan geÃ§ti.");
 		customerDao.verify();
 	}
 	
