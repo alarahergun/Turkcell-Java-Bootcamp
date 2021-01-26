@@ -26,13 +26,13 @@ public class ProductService {
 		}
 		else 
 		{
-			System.out.println("Kampanya sisteme çoktan kayýtlý.");
+			System.out.println("Kampanya sisteme Ã§oktan kayitli.");
 		}
 	}
 	
 	public void update(Product product) 
 	{
-		System.out.println("Business kodu : Güncelle");
+		System.out.println("Business kodu : GÃ¼ncelle");
 		productDao.update();
 	}
 	
@@ -40,7 +40,7 @@ public class ProductService {
 	{
 		if(!products.contains(product))
 		{
-			System.out.println("Kampanya sisteme kayýtlý deðil.");
+			System.out.println("Kampanya sisteme kayitli degil.");
 		}
 		else 
 		{
