@@ -2,10 +2,10 @@ package CoffeeServiceManagement;
 
 public class Product { 
 	
-	//bu class'ýn amacý tamamiyle kampanyalarý stoklamak, düzenlemek, kontrol etmek
+	//bu class'in amaci tamamiyle kampanyalari stoklamak, dÃ¼zenlemek, kontrol etmek
 	
-	private int id; //kampanya id  0, 1, 2 þeklinde girildiði kabul ediliyor
-	String name; //kampanya adý
+	private int id; //kampanya id  0, 1, 2 Ã¾eklinde girildigi kabul ediliyor
+	String name; //kampanya adi
 	
 	public Product(int id, String name) {
 		this.id = id;
